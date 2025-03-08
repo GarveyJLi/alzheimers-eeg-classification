@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+mne
+pymatreader
+pybids
+matplotlib
+regex
