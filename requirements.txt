@@ -6,3 +6,5 @@ pymatreader
 pybids
 matplotlib
 regex
+sklearn
+seaborn
